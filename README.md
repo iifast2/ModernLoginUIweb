@@ -1,4 +1,5 @@
 <h1 align="center"> Flutter Authentication x Firebase x Modern UI</h1>
+<h2 align="center"> This project is a copy to test the deployment on github for the app</h2>
 <h3 align="center"> Web - Android - IOS </h3>
 
 <br/> 
